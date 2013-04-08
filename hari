@@ -1,0 +1,2 @@
+repo sync
+./build-pac.sh haida
